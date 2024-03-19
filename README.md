@@ -28,8 +28,7 @@ Hoja membretada (Logo de la empresa, dirección y contacto)
 | 7   | Motor                                                   | Dispositivo para generar movimiento                           | ![Motor](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/d7b7ff47-11ed-44fb-be7e-1a354dff5761) | 4 | $25 |
 | 8   | ESP32 (o módulo compatible)                             | Microcontrolador para comunicación inalámbrica               | ![ESP32](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/352e5ef4-a15d-44ed-9990-08e154238b29) | 1 | $120 |
 | 9   | Cables, resistencias y otros componentes                | Componentes necesarios para conexiones                       | ![Componentes](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/54a1bc3f-8833-41eb-a842-2364c2408a1a) | 2 | $289 |
-| 10   | Raspberry Pi 4B | Mini ordenador de una sola placa | ![Raspberry_Pi_4_Model_B_-_Side](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/616b246d-8d4b-43d4-987e-e0bde4488bef)
- | 1 | $347 |
+| 10   | Raspberry Pi 4B | Mini ordenador de una sola placa | ![Raspberry_Pi_4_Model_B_-_Side](https://github.com/BrayanYNm67/EquipoKBI/assets/135056237/616b246d-8d4b-43d4-987e-e0bde4488bef) | 1 | $1500 |
 
 
 
